@@ -62,16 +62,15 @@
 
 ## Fontes utilizadas para confecção do curso
 
-> (Python Developer)[https://roadmap.sh/python]
-> (Curso Introdutório de Python)[https://curso.grupysanca.com.br/pt/latest/index.html]
-> (Pense em Python)[https://pense-python.caravela.club/introducao.html]
-> (Programático)[https://programatico.com.br/]
-> (Curso de Algoritmo)[https://www.cursoemvideo.com/curso/curso-de-algoritmo/]
-> (PDF - Exercícios de Algoritmos - Prof. Gustavo Guanabara)[https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf]
+1. [Python Developer](https://roadmap.sh/python)
+2. [Curso Introdutório de Python](https://curso.grupysanca.com.br/pt/latest/index.html)
+3. [Pense em Python](https://pense-python.caravela.club/introducao.html)
+4. [Programático](https://programatico.com.br/)
+5. [Curso de Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+6. [PDF - Exercícios de Algoritmos - Prof. Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
 
-> Utilizado tabém como referÊncia o livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes"** de Nilo Ney Coutinho Menezes voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados com SQLite.
+Utilizado tabém como referÊncia o livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes"** de Nilo Ney Coutinho Menezes voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados com SQLite.
 
 O livro é dividido em duas partes principais:
 1. **Lógica de Programação**: Introduz os fundamentos da lógica de programação, essenciais para qualquer linguagem de programação.
 2. **Python**: Apresenta a linguagem Python de forma prática, com exemplos e exercícios que ajudam o leitor a aplicar os conceitos aprendidos.
-
