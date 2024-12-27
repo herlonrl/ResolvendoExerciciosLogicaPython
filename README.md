@@ -1,14 +1,16 @@
-# Curso Resolvendo Exercicios de Algoritmo e Programação em Python
+# Curso Resolvendo Exercicios de Algoritmo e Programação com Python
 
-> O curso de Algoritmo e Programação utilizando a linguagem Python 3.x. Vai resolver exercícios e explicar os 100 exercícios de lógica de programação propostos pelo [Prof. Gustavo Guanabara] (https://www.cursoemvideo.com/). 
+> Pequeno curso de algoritmo e programação utilizando a linguagem Python.
 
 ## Descrição
 
-> O curso de algoritmo com os principais conceitos de programação utilizando a linguagem Python na versão 3.x. Usando o site [Colab](https://colab.research.google.com/) como ferramenta de desenvolvimento para facilitar os estudos.
+> Um curso de algoritmo com os principais conceitos de programação utilizando a linguagem Python.
+Usando o site [Colab](https://colab.research.google.com/) como ferramenta de desenvolvimento para facilitar os estudos.
+Resolvendo e explicando os "Exercícios de Algoritmos 1-100" com Python, propostos pelo [Prof. Gustavo Guanabara] (https://www.cursoemvideo.com/) em seu curso de lógica.
 
 ## Documentação do curso
 
-> Para cada aula foi criado um arquivo no formato '.ipynb', que pode ser acessado pelo [Colab](https://colab.research.google.com/) ou localmente no [Jupyter Notebook](https://jupyter.org/) e também dentro do [Visual Studio Code](https://code.visualstudio.com/) com a instalação de algumas extensões. Eles contém algumas explicações e trechos de códigos para agilizar os estudos e desenvolvimento.
+> Para cada aula foi criado um arquivo no formato '.ipynb', que pode ser executado pelo [Colab](https://colab.research.google.com/) ou localmente no [Jupyter Notebook](https://jupyter.org/) e também dentro do [Visual Studio Code](https://code.visualstudio.com/) com a instalação de algumas extensões. Eles contém algumas explicações e trechos de códigos para agilizar os estudos e desenvolvimento.
 
 1. [PASSO 00 - CONCEITOS BÁSICOS](https://github.com/herlonrl/ResolvendoExerciciosLogicaPython/blob/main/PASSO_00_CONCEITOS_BASICOS.ipynb)
 
@@ -60,7 +62,7 @@
 11. [PASSO 10 – FUNÇÕES COM RETORNO]()
 
 
-## Fontes utilizadas para confecção do curso
+## Fontes utilizadas:
 
 1. [Python Developer](https://roadmap.sh/python)
 2. [Curso Introdutório de Python](https://curso.grupysanca.com.br/pt/latest/index.html)
@@ -69,8 +71,11 @@
 5. [Curso de Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 6. [PDF - Exercícios de Algoritmos - Prof. Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
 
-Utilizado tabém como referÊncia o livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes"** de Nilo Ney Coutinho Menezes voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados com SQLite.
+Utilizado também como referência o livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes"** de Nilo Ney Coutinho Menezes (2019) Novatec.
+Disponivel no site https://pense-python.caravela.club/introducao.html.
+Voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados com SQLite.
 
-O livro é dividido em duas partes principais:
-1. **Lógica de Programação**: Introduz os fundamentos da lógica de programação, essenciais para qualquer linguagem de programação.
-2. **Python**: Apresenta a linguagem Python de forma prática, com exemplos e exercícios que ajudam o leitor a aplicar os conceitos aprendidos.
+Outro livro de referência é **"Algoritmos: Lógica para Desenvolvimento de Programação de Computadores"** de Manzano, A. (2002) Editora Erica.
+O livro é uma combinação de explicações didáticas, exercícios práticos e recursos online tornando este livro uma excelente escolha para iniciantes.
+
+> **Obrigado pela visita!**
