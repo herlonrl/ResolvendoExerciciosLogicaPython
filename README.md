@@ -39,41 +39,40 @@ Resolvendo e explicando os "Exercícios de Algoritmos 1-100" com Python, propost
 
 > Os vídeos foram elaborados de forma curta e objetiva para uma fácil assimilação.
 
-1. [PASSO 00 - CONCEITOS BÁSICOS]()
+1. [PASSO 00 - CONCEITOS BÁSICOS](https://youtu.be/_-BuKEr25Ns)
 
-2. [PASSO 01 - SEQUÊNCIAS BÁSICAS]()
+2. [PASSO 01 - SEQUÊNCIAS BÁSICAS](https://youtu.be/Zha_10pmouk)
 
-3. [PASSO 02 - CONDIÇÕES BÁSICAS]()
+3. [PASSO 02 - CONDIÇÕES BÁSICAS](https://youtu.be/Hmdjgqi3qlM)
 
-4. [PASSO 03 - CONDIÇÕES COMPOSTAS]()
+4. [PASSO 03 - CONDIÇÕES COMPOSTAS](https://youtu.be/lkK0p0fKh8s)
 
-5. [PASSO 04 – REPETIÇÕES ENQUANTO]()
+5. [PASSO 04 – REPETIÇÕES ENQUANTO](https://youtu.be/BDhMWcNVfNA)
 
-6. [PASSO 05 – ENQUANTO COM FLAG]()
+6. [PASSO 05 – ENQUANTO COM FLAG](https://youtu.be/OxywLiWx-uM)
 
-7. [PASSO 06 – REPETIÇÃO COM FAÇA ENQUANTO]()
+7. [PASSO 06 – REPETIÇÃO COM FAÇA ENQUANTO](https://youtu.be/KomrWEtWRF8)
 
-8. [PASSO 07 – REPETIÇÃO COM PARA]()
+8. [PASSO 07 – REPETIÇÃO COM PARA](https://youtu.be/E3pZWygD17E)
 
-9. [PASSO 08 – VETORES]()
+9. [PASSO 08 – VETORES](https://youtu.be/al61c2GnpW8)
 
-10. [PASSO 09 – FUNÇÕES]()
+10. [PASSO 09 – FUNÇÕES](https://youtu.be/fELigXucgzs)
 
-11. [PASSO 10 – FUNÇÕES COM RETORNO]()
+11. [PASSO 10 – FUNÇÕES COM RETORNO](https://youtu.be/VvpimWeW8nI)
 
 
 ## Fontes utilizadas:
 
 1. [Python Developer](https://roadmap.sh/python)
 2. [Curso Introdutório de Python](https://curso.grupysanca.com.br/pt/latest/index.html)
-3. [Pense em Python](https://pense-python.caravela.club/introducao.html)
-4. [Programático](https://programatico.com.br/)
-5. [Curso de Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
-6. [PDF - Exercícios de Algoritmos - Prof. Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
+3. [Programático](https://programatico.com.br/)
+4. [Curso de Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+5. [PDF - Exercícios de Algoritmos - Prof. Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
 
-Utilizado também como referência o livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes"** de Nilo Ney Coutinho Menezes (2019) Novatec.
-Disponivel no site https://pense-python.caravela.club/introducao.html.
-Voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados com SQLite.
+Utilizado também como referência o livro **"Pense em Python"** de Allen B. Downey (2019) Editora Novatec.
+Disponivel no site  https://pense-python.caravela.club/introducao.html. Allen Downey publicou o original em inglês sob uma licença Creative Commons Atribuição-NãoComercial CC BY-NC 3.0. A Novatec oferece à comunidade esta tradução nos termos da mesma licença do original, CC BY-NC 3.0, atendendo ao desejo do autor oferecer seu trabalho através de uma licença livre.
+Voltado para iniciantes em programação. Ele aborda conceitos básicos de programação, como expressões, variáveis, repetições, decisões, listas, dicionários, conjuntos, funções, arquivos, classes, objetos e banco de dados.
 
 Outro livro de referência é **"Algoritmos: Lógica para Desenvolvimento de Programação de Computadores"** de Manzano, A. (2002) Editora Erica.
 O livro é uma combinação de explicações didáticas, exercícios práticos e recursos online tornando este livro uma excelente escolha para iniciantes.
