@@ -1,16 +1,18 @@
-# Curso Resolvendo Exercicios de Algoritmo e Programação com Python
+# Curso Resolvendo Exercicios de Algoritmo com Python
 
-> Pequeno curso de algoritmo e programação utilizando a linguagem Python.
+> Estas atividades foram planejadas com o intuito de ser uma orientação de como utilizar exercícios de lógica para ensinar a linguagem de programação Python.
+Todo este material foi elaborado como parte das Atividades Extensionistas I e II do curso Gestão da Tecnologia da Informação da UNINTER.
+O material pode ser utilizado livremente, tanto presencialmente como remoto.
 
 ## Descrição
 
 > Um curso de algoritmo com os principais conceitos de programação utilizando a linguagem Python.
-Usando o site [Colab](https://colab.research.google.com/) como ferramenta de desenvolvimento para facilitar os estudos.
-Resolvendo e explicando os "Exercícios de Algoritmos 1-100" com Python, propostos pelo [Prof. Gustavo Guanabara] (https://www.cursoemvideo.com/) em seu curso de lógica.
+> Usando o site [Colab](https://colab.research.google.com/) como ferramenta de desenvolvimento para facilitar os estudos de Python.
+> Resolvendo e explicando os "Exercícios de Algoritmos 1-100", propostos pelo [Prof. Gustavo Guanabara] (https://www.cursoemvideo.com/) em seu curso de lógica.
 
 ## Documentação do curso
 
-> Para cada aula foi criado um arquivo no formato '.ipynb', que pode ser executado pelo [Colab](https://colab.research.google.com/) ou localmente no [Jupyter Notebook](https://jupyter.org/) e também dentro do [Visual Studio Code](https://code.visualstudio.com/) com a instalação de algumas extensões. Eles contém algumas explicações e trechos de códigos para agilizar os estudos e desenvolvimento.
+> Para cada aula foi criado um arquivo no formato '.ipynb', que pode ser executado pelo [Colab](https://colab.research.google.com/) ou localmente no [Jupyter Notebook](https://jupyter.org/) e também dentro do [Visual Studio Code](https://code.visualstudio.com/) com a instalação de extensões. Eles contém algumas explicações e trechos de códigos para agilizar os estudos e desenvolvimento.
 
 1. [PASSO 00 - CONCEITOS BÁSICOS](https://github.com/herlonrl/ResolvendoExerciciosLogicaPython/blob/main/PASSO_00_CONCEITOS_BASICOS.ipynb)
 
@@ -37,7 +39,7 @@ Resolvendo e explicando os "Exercícios de Algoritmos 1-100" com Python, propost
 
 ## Vídeos no YouTube
 
-> Os vídeos foram elaborados de forma curta e objetiva para uma fácil assimilação.
+> Os vídeos são um **protótipo** e foram elaborados a fim de servirem como base para futuras aulas que utilizem o material disponível deste projeto. Foram criados de forma curta e objetiva para fácil compreensão.
 
 1. [PASSO 00 - CONCEITOS BÁSICOS](https://youtu.be/_-BuKEr25Ns)
 
@@ -78,3 +80,7 @@ Outro livro de referência é **"Algoritmos: Lógica para Desenvolvimento de Pro
 O livro é uma combinação de explicações didáticas, exercícios práticos e recursos online tornando este livro uma excelente escolha para iniciantes.
 
 > **Obrigado pela visita!**
+
+## License
+
+This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) for details.
